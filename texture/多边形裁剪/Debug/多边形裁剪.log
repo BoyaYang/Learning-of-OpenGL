@@ -1,5 +1,7 @@
 ﻿  源.cpp
-f:\github的仓库\算法导论学习\多边形裁剪\多边形裁剪\源.cpp(90): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
-f:\github的仓库\算法导论学习\多边形裁剪\多边形裁剪\源.cpp(95): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
-  多边形裁剪.vcxproj -> F:\GITHUB的仓库\算法导论学习\多边形裁剪\Debug\多边形裁剪.exe
-  多边形裁剪.vcxproj -> F:\GITHUB的仓库\算法导论学习\多边形裁剪\Debug\多边形裁剪.pdb (Full PDB)
+f:\github的仓库\opengl学习代码\texture\多边形裁剪\源.cpp(94): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+f:\github的仓库\opengl学习代码\texture\多边形裁剪\源.cpp(190): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+f:\github的仓库\opengl学习代码\texture\多边形裁剪\源.cpp(195): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  多边形裁剪.vcxproj -> F:\GITHUB的仓库\opengl学习代码\texture\Debug\多边形裁剪.exe
+  多边形裁剪.vcxproj -> F:\GITHUB的仓库\opengl学习代码\texture\Debug\多边形裁剪.pdb (Full PDB)
